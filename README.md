@@ -5,7 +5,7 @@
 **windows**
 **linux**
 
-#Python log parser
+# Python log parser
 
 # Firewall Rull Recommendation
 
